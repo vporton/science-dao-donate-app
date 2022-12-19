@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/science-dao-app/static/css/main.29f3b951.css",
-    "main.js": "/science-dao-app/static/js/main.0e28138f.js",
+    "main.js": "/science-dao-app/static/js/main.7d73ad2e.js",
     "static/js/787.f132df60.chunk.js": "/science-dao-app/static/js/787.f132df60.chunk.js",
     "index.html": "/science-dao-app/index.html",
     "main.29f3b951.css.map": "/science-dao-app/static/css/main.29f3b951.css.map",
-    "main.0e28138f.js.map": "/science-dao-app/static/js/main.0e28138f.js.map",
+    "main.7d73ad2e.js.map": "/science-dao-app/static/js/main.7d73ad2e.js.map",
     "787.f132df60.chunk.js.map": "/science-dao-app/static/js/787.f132df60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f3b951.css",
-    "static/js/main.0e28138f.js"
+    "static/js/main.7d73ad2e.js"
   ]
 }
