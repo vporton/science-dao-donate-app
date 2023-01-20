@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/science-dao-donate-app/static/css/main.fb9e632a.css",
-    "main.js": "/science-dao-donate-app/static/js/main.83668c87.js",
+    "main.css": "/science-dao-donate-app/static/css/main.85516301.css",
+    "main.js": "/science-dao-donate-app/static/js/main.370c579a.js",
     "static/js/64.cd9c5dc2.chunk.js": "/science-dao-donate-app/static/js/64.cd9c5dc2.chunk.js",
     "static/js/563.adc7239b.chunk.js": "/science-dao-donate-app/static/js/563.adc7239b.chunk.js",
     "static/js/942.feb71096.chunk.js": "/science-dao-donate-app/static/js/942.feb71096.chunk.js",
@@ -9,15 +9,15 @@
     "static/js/419.ab0c6f8d.chunk.js": "/science-dao-donate-app/static/js/419.ab0c6f8d.chunk.js",
     "static/js/48.034fb3cf.chunk.js": "/science-dao-donate-app/static/js/48.034fb3cf.chunk.js",
     "index.html": "/science-dao-donate-app/index.html",
-    "main.fb9e632a.css.map": "/science-dao-donate-app/static/css/main.fb9e632a.css.map",
-    "main.83668c87.js.map": "/science-dao-donate-app/static/js/main.83668c87.js.map",
+    "main.85516301.css.map": "/science-dao-donate-app/static/css/main.85516301.css.map",
+    "main.370c579a.js.map": "/science-dao-donate-app/static/js/main.370c579a.js.map",
     "64.cd9c5dc2.chunk.js.map": "/science-dao-donate-app/static/js/64.cd9c5dc2.chunk.js.map",
     "787.f132df60.chunk.js.map": "/science-dao-donate-app/static/js/787.f132df60.chunk.js.map",
     "419.ab0c6f8d.chunk.js.map": "/science-dao-donate-app/static/js/419.ab0c6f8d.chunk.js.map",
     "48.034fb3cf.chunk.js.map": "/science-dao-donate-app/static/js/48.034fb3cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb9e632a.css",
-    "static/js/main.83668c87.js"
+    "static/css/main.85516301.css",
+    "static/js/main.370c579a.js"
   ]
 }
